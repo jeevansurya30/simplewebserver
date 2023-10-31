@@ -57,7 +57,7 @@ server_address = ('', 8000)
 httpd = HTTPServer(server_address, myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
-
+```
 ## OUTPUT:
 ![image](https://github.com/jeevansurya30/simplewebserver/assets/129417865/609f6388-e349-4019-8a79-044a8136ed8c)
 
