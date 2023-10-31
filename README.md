@@ -54,7 +54,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![image](https://github.com/jeevansurya30/simplewebserver/assets/129417865/32809d59-484b-47a8-9329-1a52657fdbc4)
+![image](https://github.com/jeevansurya30/simplewebserver/assets/129417865/609f6388-e349-4019-8a79-044a8136ed8c)
+
+![image](https://github.com/jeevansurya30/simplewebserver/assets/129417865/93e58137-f7ca-499a-9d43-3d2d2e6fce60)
 
 
 ## RESULT:
