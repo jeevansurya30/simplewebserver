@@ -53,8 +53,11 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Alt text](<web 1.png>)
-![Alt text](<web 2.png>)
+![web 1](https://github.com/jeevansurya30/simplewebserver/assets/129417865/f86eaa89-8cbb-426c-9c17-ba8fa664c188)
+
+![web 2](https://github.com/jeevansurya30/simplewebserver/assets/129417865/95a7d82f-7753-44d8-930c-53373425e179)
+
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
